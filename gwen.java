@@ -7,10 +7,11 @@ public static void main (String[]args)
   int a,b,c;
   a=100;
   b=250;
-  c=a+b;
+  c1=a+b;
   b=25;
-  c=a*b;
-  System.out.println("The Answer Is "+c);
+  c2=a*b;
+  System.out.println("The Answer Is "+c1);
+  System.out.println("The Answer Is "+c2);
 
 }
 
