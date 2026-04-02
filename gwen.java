@@ -6,7 +6,7 @@ public static void main (String[]args)
 {
   int a,b,c;
   a=100;
-  b=25;
+  b=250;
   c=a+b;
   System.out.println("The Answer Is "+c);
 
