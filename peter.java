@@ -4,13 +4,14 @@ class peter
 {
 public static void main (String[]args)
 {
-  int a,b,c,d;
-  a=1000;
-  b=2500;
-  c=a/b;
-  d=a+b;
-  System.out.println("The Answer Is "+c);
-  System.out.println("The Answer Is "+d);
+ int rollno=23, Tamil=75,English=78,Maths=88,total;
+ String name="Thangarasu G";
+ total=Tamil+English+Maths;
+
+System.out.println("Student Details :");
+System.out.println("Roll No : "+rollno);
+System.out.println("Student Name : "+name);
+System.out.println("Total Mark : "+total);
 
 }
 
