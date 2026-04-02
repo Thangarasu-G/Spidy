@@ -4,7 +4,7 @@ class peter
 {
 public static void main (String[]args)
 {
- int rollno=23, Tamil=75,English=78,Maths=88,total;
+ int rollno=23, Tamil=75,English=78,Maths=88, Science=90,total;
  String name="Thangarasu G";
  total=Tamil+English+Maths;
 
