@@ -11,7 +11,5 @@ public static void main (String[]args)
   c2=a*b;
   System.out.println("The Answer Is "+c1);
   System.out.println("The Answer Is "+c2);
-
 }
-
 }
